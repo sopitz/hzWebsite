@@ -5,12 +5,12 @@ class Content {
 	public static $welcome = "Herzlich willkommen auf unserer Hochzeitsseite!<br>Du kannst dich oben mit deiner E-Mail-Adresse und deinem Passwort einloggen oder dich auf der linken Seite";
 	public static $register = "registrieren";
 	public static $welcome2 = "Wir freuen uns auf dich!";
-	public static $owner = "Raphael und Michaela<br><br>Solltest du dich nicht registrieren oder einloggen können, sag es uns und wir helfen dir gerne. Am besten, du schreibst uns eine E-Mail an folgende Adresse: info@michaela-und-raphael-heiraten.de";
+	public static $owner = "owner";
 	public static $welcomeRegister = "Herzlich willkommen auf unserer Hochzeitsseite. Vermutlich bist du das erste Mal hier. Schau doch bitte auf die Einladung, die wir dir zugesendet haben.<br>Dort findest du ein Passwort.<br>Gib bitte deinen Nachnamen in das erste Textfeld und das Passwort der Einladung in das zweite Textfeld ein. Für den Login benötigen wir noch eine E-Mail-Adresse von dir, an die wir dir deine Zugangsdaten für diese Webseite zusenden. Und solltest du dein Passwort vergessen, können wir dir über diese E-Mail-Adresse ein neues zusenden.";
 	public static $why = "Warum so kompliziert?";
 	public static $explanation = "Wir könnten dir auch einfach ein Passwort zusenden, mit dem du dich einloggst. Allerdings wäre dies nicht besonders sicher. Jemand anderes könnte das Passwort gesehen haben oder deine Einladung versehentlich zugeschickt bekommen haben. Deshalb ist es sicherer, wenn wir dir die Zugangsdaten an deine E-Mail-Adresse senden. Da du der einzige bist, der das Passwort der Einladung kennt UND die E-Mail mit den Zugangsdaten lesen kann, wird sich kein anderer fälschlicherweise einloggen können.";
 	public static $emailSent = "Deine neuen Account-Daten wurden an deine E-Mail-Adresse geschickt.<br>Bitte logge dich dann mit diesen Account-Daten auf der Home-Seite ein.";
-	public static $error = "Es gab einen Fehler. Bitte versuche es erneut oder wende dich an den <a href=\"mailto:info@michaela-und-raphael-heiraten.de\">Administrator</a>.";
+	public static $error = "Es gab einen Fehler. Bitte versuche es erneut oder wende dich an den <a href=\"mailto:admin@domain.de\">Administrator</a>.";
 	public static $succesfulRegistration = "Du hast dich erfolgreich registriert.";
 	public static $emptyField = "Du musst alle Felder ausfüllen";
 	public static $alreadyRegistered = "Du bist bereits registriert. Wenn du dein Passwort vergessen hast, kannst du es dir neu zusenden lassen.";
@@ -69,14 +69,14 @@ class Content {
 	public static $foundEntry = "Eintrag gefunden";
 	public static $orderByPrice = "Nach Preis ordnen";
 	public static $orderMaxByPrice = "Nach Maximal-Preis ordnen";
-	public static $email = "info@michaela-und-raphael-heiraten.de";
+	public static $email = "info@domain.de";
 	public static $infoText1 = "Eine Auswahl an Hotels findest du";
-	public static $infoText2 = "Unsere kirchliche Trauung findet in der Kirche des St. Josefshaus Herten statt";
-	public static $infoTextAddress = "Hauptstraße 1, 79618 Herten-Rheinfelden";
-	public static $infoText3 = "Am Abend der Trauung möchten wir gerne mit dir in der Halle direkt hinter der Kirche feiern.";
-	public static $infoText4 = "Wenn du fliegen möchtest, ist der nächste Flughafen";
-	public static $infoText5 = "(Basel-Mulhouse-Freiburg)";
-	public static $infoText6 = "nur 15 Minuten entfernt.";
+	public static $infoText2 = "infotext";
+	public static $infoTextAddress = "infotext2";
+	public static $infoText3 = "infotext3";
+	public static $infoText4 = "infotText4";
+	public static $infoText5 = "infotText5";
+	public static $infoText6 = "infotext6";
 	public static $linkToContact = "Kontakt";
 	// register
 	public static $yourLastname = "Dein Nachname";
@@ -85,13 +85,13 @@ class Content {
 	// register END
 	
 	// honeymoon
-	public static $honeymoon1 = "Wir fliegen in die <b>Flitterwochen</b> und freuen uns natürlich, wenn Du uns darin unterstützen möchtest.";
-	public static $honeymoon2 = "Es ist dir überlassen, wieviel du uns schenkst, wir freuen uns über jeden Euro =)";
-	public static $honeymoon3 = "Wenn du uns unterstützen möchtest, kannst du uns das Geld entweder an der Hochzeit schenken, oder es direkt auf unser Flitterwochen-Konto überweisen:";
-	public static $honeymoon4 = "Konto:<br><br>Thomas Cook Touristik GmbH<br>IBAN:	DE97500400000580495000	<br>BIC:	COBADEFF	<br><br>";
-	public static $honeymoon5 = "Verwendungszweck:<br><br>Vorgangs-Nr. 82598675 - 01	<br>Lais/Meier";
-	public static $honeymoon6 = "ACHTUNG! Der Versendungzweck mit der Vorgangsnummer ist wichtig, damit deine Überweisung richtig zugeordnet werden kann!";
-	public static $honeymoon7 = "Vielen Dank! Wir freuen uns wirklich sehr!";
+	public static $honeymoon1 = "beispieltext.";
+	public static $honeymoon2 = "beispieltext";
+	public static $honeymoon3 = "beispieltext";
+	public static $honeymoon4 = "beispieltext";
+	public static $honeymoon5 = "beispieltext";
+	public static $honeymoon6 = "beispieltext";
+	public static $honeymoon7 = "beispieltext";
 	// honeymoon END
 
 
